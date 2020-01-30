@@ -1,0 +1,87 @@
+{
+"allmovie" : [
+{
+"count" : "01", 
+"vol" : "Episode (1+2)", 
+"video" : "https://drive.google.com/file/d/1WIIhQ-FMbsQoBlqA2f3-42qsj87VyXEP/view"
+} ,
+{
+"count" : "02", 
+"vol" : "Episode (3+4)", 
+"video" : "https://drive.google.com/file/d/1qVQGO3OtZyHKLHOvGiC5PTdokkatj9p9/view"
+} ,
+{
+"count" : "03", 
+"vol" : "Episode (5+6)", 
+"video" : "https://megaup.net/2Qye3/(FOF)The.Game.Towards.Zero.E05-E06..mp4"
+} 
+,
+{
+"count" : "04", 
+"vol" : "Episode (7+8)", 
+"video" : "Video"
+} ,
+{
+"count" : "05", 
+"vol" : "Episode (9+10)", 
+"video" : "Video"
+} ,
+{
+"count" : "06", 
+"vol" : "Episode (11+12)", 
+"video" : "Video"
+} ,
+{
+"count" : "07", 
+"vol" : "Episode (13+14)", 
+"video" : "Video"
+} ,
+{
+"count" : "08", 
+"vol" : "Episode (15+16)", 
+"video" : "Video"
+} ,
+{
+"count" : "09", 
+"vol" : "Episode (17+18)", 
+"video" : "Video"
+} ,
+{
+"count" : "10", 
+"vol" : "Episode (19+20)", 
+"video" : "Video"
+} ,
+{
+"count" : "11", 
+"vol" : "Episode (21+22)", 
+"video" : "Video"
+} ,
+{
+"count" : "12", 
+"vol" : "Episode (23+24)", 
+"video" : "Video"
+} ,
+{
+"count" : "13", 
+"vol" : "Episode (25+26)", 
+"video" : "Video"
+} ,
+{
+"count" : "14", 
+"vol" : "Episode (27+28)", 
+"video" : "Video"
+} ,
+{
+"count" : "15", 
+"vol" : "Episode (29+30)", 
+"video" : "Video"
+}
+,
+{
+"count" : "End", 
+"vol" : "Final Episode", 
+"video" : "Video"
+}
+
+]
+}
