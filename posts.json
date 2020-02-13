@@ -3,84 +3,116 @@
 {
 "count" : "01", 
 "vol" : "Episode (1+2)", 
-"video" : "https://drive.google.com/file/d/1WIIhQ-FMbsQoBlqA2f3-42qsj87VyXEP/view"
+"video" : "https://drive.google.com/file/d/1WIIhQ-FMbsQoBlqA2f3-42qsj87VyXEP/view",
+"video1" : "https://megaup.net/3wn4f/(FOF)The.Game.Towards.Zero.S01E01-E02..mp4",
+"video2" : "189174982482859"
 } ,
 {
 "count" : "02", 
 "vol" : "Episode (3+4)", 
-"video" : "https://drive.google.com/file/d/1qVQGO3OtZyHKLHOvGiC5PTdokkatj9p9/view"
+"video" : "https://drive.google.com/file/d/1qVQGO3OtZyHKLHOvGiC5PTdokkatj9p9/view",
+"video1" : "https://megaup.net/2QrhC/(FOF)The.Game.Towards.Zero.S01E03-E04.mp4",
+"video2" : "190313445702346"
 } ,
 {
 "count" : "03", 
 "vol" : "Episode (5+6)", 
-"video" : "https://drive.google.com/file/d/1kJWb-dEdmjmGX7ZNNqX8DpHcrMouU3je/view"
+"video" : "https://drive.google.com/file/d/1kJWb-dEdmjmGX7ZNNqX8DpHcrMouU3je/view",
+"video1" : "https://megaup.net/2Qye3/(FOF)The.Game.Towards.Zero.E05-E06..mp4",
+"video2" : "196385105095180"
 } 
 ,
 {
 "count" : "04", 
 "vol" : "Episode (7+8)", 
-"video" : "https://megaup.net/3wwpk/(FOF)The.Game.Towards.Zero.E07-E08..mp4"
+"video" : "https://drive.google.com/file/d/163HTLy7BYoowgq8g6ZNVBkZ5_FXkAGOM/view",
+"video1" : "https://megaup.net/3wwpk/(FOF)The.Game.Towards.Zero.E07-E08..mp4",
+"video2" : "196358571764500"
 } ,
 {
 "count" : "05", 
 "vol" : "Episode (9+10)", 
-"video" : "Video"
+"video" : "https://drive.google.com/file/d/1aJwbV6XqSGsdRpf-WYr5rltvAtfwf4Pb/view",
+"video1" : "https://megaup.net/4czig/(FOF)The.Game.Towards.Zero.E09-E10..mp4",
+"video2" : ""
 } ,
 {
 "count" : "06", 
 "vol" : "Episode (11+12)", 
-"video" : "Video"
+"video" : "https://drive.google.com/file/d/1mkOFotFQ87slC5bx8cq2L6StdXF03RDz/view",
+"video1" : "https://megaup.net/4Syxf/(FOF)The.Game.Towards.Zero.E11-E12.mp4",
+"video2" : "202923867774637"
 } ,
 {
 "count" : "07", 
 "vol" : "Episode (13+14)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "08", 
 "vol" : "Episode (15+16)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "09", 
 "vol" : "Episode (17+18)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "10", 
 "vol" : "Episode (19+20)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "11", 
 "vol" : "Episode (21+22)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "12", 
 "vol" : "Episode (23+24)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "13", 
 "vol" : "Episode (25+26)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "14", 
 "vol" : "Episode (27+28)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 } ,
 {
 "count" : "15", 
 "vol" : "Episode (29+30)", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 }
 ,
 {
 "count" : "End", 
 "vol" : "Final Episode", 
-"video" : "Video"
+"video" : "Video",
+"video1" : "",
+"video2" : ""
 }
 
 ]
